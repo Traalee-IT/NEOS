@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5765DE4F-A737-4DA1-805E-76D65D54FE45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyKhuTro</RootNamespace>
+    <AssemblyName>QuanLyKhuTro</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.3.0\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Config\ConnectSQL.cs" />
+    <Compile Include="CustomDesign\CustomMessageBox.cs" />
+    <Compile Include="DAO\AccountDao.cs" />
+    <Compile Include="DAO\ChiTieuDao.cs" />
+    <Compile Include="DAO\ContractDao.cs" />
+    <Compile Include="DAO\CustomerDAO.cs" />
+    <Compile Include="DAO\DichVuDao.cs" />
+    <Compile Include="DAO\PaymentHistoryDAO.cs" />
+    <Compile Include="DAO\RoomDao.cs" />
+    <Compile Include="DAO\TheRaVaoDao.cs" />
+    <Compile Include="Model\Account.cs" />
+    <Compile Include="Model\Contract.cs" />
+    <Compile Include="Model\Customer.cs" />
+    <Compile Include="Model\CustomSetUp.cs" />
+    <Compile Include="Model\DichVu.cs" />
+    <Compile Include="Model\Excel.cs" />
+    <Compile Include="Model\LichSuThanhToan.cs" />
+    <Compile Include="Model\MemberRoom.cs" />
+    <Compile Include="Model\PhongNoThanhToan.cs" />
+    <Compile Include="Model\QuanLyChiTieu.cs" />
+    <Compile Include="Model\Room.cs" />
+    <Compile Include="Model\TheRaVao.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\SendingGmail.cs" />
+    <Compile Include="View\FormMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormMessageBox.designer.cs">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormPaymentHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormPaymentHistory.designer.cs">
+      <DependentUpon>FormPaymentHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormThanhToan.designer.cs">
+      <DependentUpon>FormThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\InformationAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\InformationAccount.Designer.cs">
+      <DependentUpon>InformationAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\LoadingAnimation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\LoadingAnimation.designer.cs">
+      <DependentUpon>LoadingAnimation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\PanelOpacity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\PanelOpacity.designer.cs">
+      <DependentUpon>PanelOpacity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\PhongNoThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\PhongNoThanhToan.designer.cs">
+      <DependentUpon>PhongNoThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyChiTieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyChiTieu.designer.cs">
+      <DependentUpon>QuanLyChiTieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyDichVu.designer.cs">
+      <DependentUpon>QuanLyDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyDichVuChoPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyDichVuChoPhong.designer.cs">
+      <DependentUpon>QuanLyDichVuChoPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyHopDong.designer.cs">
+      <DependentUpon>QuanLyHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyKhachHang.designer.cs">
+      <DependentUpon>QuanLyKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyTaiKhoan.designer.cs">
+      <DependentUpon>QuanLyTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanLyTheRaVao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanLyTheRaVao.designer.cs">
+      <DependentUpon>QuanLyTheRaVao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\RoomManagerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RoomManagerForm.Designer.cs">
+      <DependentUpon>RoomManagerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ThongKeDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ThongKeDoanhThu.Designer.cs">
+      <DependentUpon>ThongKeDoanhThu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\FormMessageBox.resx">
+      <DependentUpon>FormMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormPaymentHistory.resx">
+      <DependentUpon>FormPaymentHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormThanhToan.resx">
+      <DependentUpon>FormThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\InformationAccount.resx">
+      <DependentUpon>InformationAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LoadingAnimation.resx">
+      <DependentUpon>LoadingAnimation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\PhongNoThanhToan.resx">
+      <DependentUpon>PhongNoThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyChiTieu.resx">
+      <DependentUpon>QuanLyChiTieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyDichVu.resx">
+      <DependentUpon>QuanLyDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyDichVuChoPhong.resx">
+      <DependentUpon>QuanLyDichVuChoPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyHopDong.resx">
+      <DependentUpon>QuanLyHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyKhachHang.resx">
+      <DependentUpon>QuanLyKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyTaiKhoan.resx">
+      <DependentUpon>QuanLyTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanLyTheRaVao.resx">
+      <DependentUpon>QuanLyTheRaVao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RoomManagerForm.resx">
+      <DependentUpon>RoomManagerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ThongKeDoanhThu.resx">
+      <DependentUpon>ThongKeDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-close-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-minimize-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Flatastic-11-Customer-service.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dapino-Office-Women-Office-women-pink.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gartoon-Team-Gartoon-Places-User-desktop.512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_home_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-cancel-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-card-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-category-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contact-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contract-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contract-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-customer-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-customer-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-delete-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-function-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-german-house-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-graph-report-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-house-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-male-user.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-male-user-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-note-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-payment-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-payment-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-personal-trainer-64.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restart-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading_animotion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thong_ke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\updated.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-home-icon-png-3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bao_cao_thong_ke.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bao_cao_thong_ke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chi-tien-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contract_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-quan-ly-tro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-date.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-clock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-send-30.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

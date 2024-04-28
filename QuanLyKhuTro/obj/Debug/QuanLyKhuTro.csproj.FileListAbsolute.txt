@@ -1,0 +1,168 @@
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe.config
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.pdb
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.AssemblyReference.cache
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.Properties.Resources.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.GenerateResource.cache
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CoreCompileInputs.cache
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.exe
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.pdb
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\FontAwesome.Sharp.dll
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CopyComplete
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.BaoCaoThongKe.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormMessageBox.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormPaymentHistory.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormThanhToan.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.LoadingAnimation.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Login.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.PhongNoThanhToan.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyChiTieu.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVu.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVuChoPhong.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyHopDong.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyKhachHang.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyPhong.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTrangThietBi.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.ThongKeDoanhThu.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.dll
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.dll
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.dll
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.dll
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.xml
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.pdb
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.xml
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.pdb
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.xml
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.pdb
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.xml
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTheRaVao.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Home.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.RoomManagerForm.resources
+D:\Lap trinh .NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.DialogLoading.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe.config
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.pdb
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.dll
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.dll
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.xml
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.pdb
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.xml
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.AssemblyReference.cache
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.Properties.Resources.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.BaoCaoThongKe.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.DialogLoading.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormMessageBox.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormPaymentHistory.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormThanhToan.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Home.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.LoadingAnimation.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Login.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.PhongNoThanhToan.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyChiTieu.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVu.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVuChoPhong.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyHopDong.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyKhachHang.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyPhong.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTheRaVao.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTrangThietBi.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.RoomManagerForm.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.ThongKeDoanhThu.resources
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.GenerateResource.cache
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CoreCompileInputs.cache
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CopyComplete
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.exe
+C:\Users\sample\Downloads\QuanLyDayTro-phuc\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.pdb
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.Properties.Resources.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormMessageBox.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormPaymentHistory.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormThanhToan.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Home.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.LoadingAnimation.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.PhongNoThanhToan.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyChiTieu.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVu.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVuChoPhong.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyHopDong.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyKhachHang.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTheRaVao.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.RoomManagerForm.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.ThongKeDoanhThu.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.GenerateResource.cache
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CoreCompileInputs.cache
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe.config
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.pdb
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.dll
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.dll
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.dll
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.dll
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.xml
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.pdb
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.xml
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.pdb
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.xml
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.pdb
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.xml
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CopyComplete
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.exe
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.pdb
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Login.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.AssemblyReference.cache
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.InformationAccount.resources
+D:\Đồ án .Net\QuanLyDayTro\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTaiKhoan.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe.config
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.exe
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\QuanLyKhuTro.pdb
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.dll
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.dll
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\FontAwesome.Sharp.dll
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.dll
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.dll
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.dll
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.xml
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\EntityFramework.SqlServer.xml
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.pdb
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.xml
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.pdb
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.WinForms.xml
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.pdb
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\bin\Debug\LiveCharts.Wpf.xml
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.AssemblyReference.cache
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.Properties.Resources.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormMessageBox.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormPaymentHistory.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.FormThanhToan.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Home.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.InformationAccount.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.LoadingAnimation.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.Login.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.PhongNoThanhToan.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyChiTieu.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVu.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyDichVuChoPhong.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyHopDong.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyKhachHang.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTaiKhoan.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.QuanLyTheRaVao.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.RoomManagerForm.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.View.ThongKeDoanhThu.resources
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.GenerateResource.cache
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CoreCompileInputs.cache
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.csproj.CopyComplete
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.exe
+G:\.NET\QuanLyKhuTro\QuanLyKhuTro\obj\Debug\QuanLyKhuTro.pdb
